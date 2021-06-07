@@ -23,7 +23,7 @@ public class Main1 {
 		city2.add(ct4);
 
 		state.put("karnataka", city1);
-		state.put("Hyd", city2);
+		
 
 		System.out.println(state);
 
