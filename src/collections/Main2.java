@@ -21,7 +21,8 @@ public class Main2 {
 		city2.add(ct4);
 
 		state.put("karnataka", city1);
-		
+		state.put("maharastra", city1);
+		state.put("gujraj", city2);
 
 		System.out.println(state);
 
